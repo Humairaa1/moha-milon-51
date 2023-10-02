@@ -1,8 +1,9 @@
 
 const Home = () => {
+    
     return (
         <div>
-            home
+            <p>my name is </p>
         </div>
     );
 };
